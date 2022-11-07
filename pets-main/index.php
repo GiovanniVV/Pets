@@ -31,15 +31,28 @@
 		<h2>Adopción</h2>
 	</section>
 	<section class="adopcion1">
-		<img src="images/billy.png">
+		<img src="images/Billy.png">
 		<section class="cardog">
 			<h3>Billy</h3>
-			<p>Busca una familia cariñosa, muy saludable, tiene 2 añitos de edad,
+			<p>Busca una familia cariñosa, muy saludable, tiene 2 años de edad,
 			muy jugueton en especial con los niños, es aseado y se encuentra esterilizado</p>
-			<button>Más información</button>
+			<div class="alinear">
+				<button class="button button1">Más información</button>
+			</div>
 		</section>
 	</section>
-	<section class="adopcion2"><h3>Noticia 2</h3></section>
+
+	<section class="adopcion2">
+		<img src="images/pugberto.png">
+		<section class="cardog">
+			<h3>Pugberto</h3>
+			<p>El licenciado pugberto busca una familia cariñosa que lo cuide y lo ayude a culminar
+			sus estudios, es muy cariñoso, aunque aveces se ponga un poco gruñon tiene un corazón de azucar</p>
+			<div class="alinear">
+				<button class="button2">Más información</button>
+			</div>
+		</section>
+	</section>
 	<section class="doctor">
 		<h3>Doctores</h3>
 	</section>

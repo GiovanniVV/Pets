@@ -90,10 +90,78 @@ body{
 	padding: 5px 10px;
 	color: #605b5b;
 }
+.contenedor .adopcion1 .cardog button{
+	color: #817E9F;
+	background-color: #D7F171;
+	border-radius: 10px;
+	border: none;
+	width: 170px;
+	height: 40px;
+	font-size: 18px;
+	transition-duration: 0.4s;
+}
+
+.contenedor .adopcion1 .cardog .button1{
+	background-color: #D7F171; 
+  	color: #494949; 
+  	border: 0px solid #4CAF50;
+}
+
+.contenedor .adopcion1 .cardog .button1:hover{
+	background-color: #65544D;
+  	color: white;
+  	cursor: pointer;
+}
+
+.contenedor .adopcion1 .cardog .alinear{
+	text-align: right;
+	padding: 10px;
+}
+
 .contenedor .adopcion2{
 	grid-area: adopta2;
-	background-color: #333;
+	background-color: #fff;
+	display: flex;
+	justify-content: space-between;
 }
+.contenedor .adopcion2 .cardog h3{
+	font-size: 25px;
+	color: #817E9F;
+	text-transform: uppercase;
+	padding: 5px 10px;
+}
+.contenedor .adopcion2 .cardog p{
+	padding: 5px 10px;
+	color: #605b5b;
+}
+.contenedor .adopcion2 .cardog button{
+	color: #817E9F;
+	background-color: #D7F171;
+	border-radius: 10px;
+	border: none;
+	width: 170px;
+	height: 40px;
+	font-size: 18px;
+	transition-duration: 0.4s;
+}
+
+.contenedor .adopcion2 .cardog .button2{
+	background-color: #D7F171; 
+  	color: #494949; 
+  	border: 0px solid #4CAF50;
+}
+
+.contenedor .adopcion2 .cardog .button2:hover{
+	background-color: #65544D;
+  	color: white;
+  	cursor: pointer;
+}
+
+.contenedor .adopcion2 .cardog .alinear{
+	text-align: right;
+	padding: 10px;
+}
+
 .contenedor .doctor{
 	grid-area: doctor;
 	background-color: #333;
