@@ -18,9 +18,9 @@
 		<section class="logotipo"><img src="images/logotipoPet.png"></section>
 		<nav class="menuPrincipal">
 			<a href="#">Inicio</a>
-			<a href="#">Servicios</a>
+			<a href="internas/servicios.php">Servicios</a>
 			<a href="#">Productos</a>
-			<a href="#">Adopción</a>
+			<a href="internas/adopcion.php">Adopción</a>
 			<a href="#">Contactos</a>
 		</nav>
 	</header>
@@ -54,10 +54,38 @@
 		</section>
 	</section>
 	<section class="doctor">
-		<h3>Doctores</h3>
+		<section class="doctor1">
+			<img src="images/doc1.png">
+			<section class="sub1">
+				<h3>Dr. Julian Tejada</h3>
+			</section>
+		</section>
+		<section class="doctor2">
+			<img src="images/doc2.png">
+			<section class="sub2">
+				<h3>Dr. Diego Reyes</h3>
+			</section>
+		</section>
+		<section class="doctor3">
+			<img src="images/doc3.png">
+			<section class="sub3">
+				<h3>Dr. Bruno Diaz</h3>
+			</section>
+		</section>
+		<section class="doctor4">
+			<img src="images/doc4.png">
+			<section class="sub4">
+				<h3>Dr. Marshall D Teach</h3>
+			</section>
+		</section>
 	</section>
 	<section class="sponsor">
-		<h3>Sponsor</h3>
+		<section class="logoDog">
+			<img src="images/logotipoPet.png">
+		</section>
+		<section class="logoUtpl">
+			<img src="images/logo_blanco_utpl.png">
+		</section>
 	</section>
 	<footer class="piePagina">
 		<section class="derechos">
