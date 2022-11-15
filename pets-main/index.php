@@ -26,6 +26,12 @@
 	</header>
 	<section class="sliderPrincipal">
 		<img src="images/fondonara.png">
+		<div id="container" class="filter">
+			<div>
+				<h5>Proyecto de adopción de mascotas</h5>
+			</div>
+			<button class="botonAdo" type="submit">ADOPTANOS</button>
+		</div>
 	</section>
 	<section class="titulo">
 		<h2>Adopción</h2>

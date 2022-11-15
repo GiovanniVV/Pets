@@ -26,6 +26,9 @@
 	</header>
 	<main>
 		<h2>Servicios</h2>
+		<h4>Los perros y gatos rescatados o abandonados en PAE luego de  ser recuperados y rehabilitados, pasan al Programa de Adopciones con el fin de ser reubicados con familias responsables.
+			<br>
+		Para este programa, la fundación cuenta con un centro de adopciones con  capacidad para albergar aproximadamente 160 perro; los gatos  permanecen en áreas acondicionadas especialmente para ellos  en  las clínicas de la fundación o la gatera cuando ya no requieren de tratamiento médico.</h4>
 	</main>
 	<section class="sponsor">
 		<section class="logoDog">
